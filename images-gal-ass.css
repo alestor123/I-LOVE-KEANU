@@ -1,0 +1,20 @@
+h1 {
+	color: yellow;
+	font-weight: : 50000px;
+	text-align: center;
+/*	background: blue;*/
+/*	border: groove red ;*/
+}
+body {
+	background: url(https://i.pinimg.com/originals/49/63/92/49639240459926fa5148a49f763511f8.jpg);	
+}
+img {
+	border: :yellow;
+	width: 300px;
+	margin :50px ;
+
+}
+p{
+	font-size: 20px
+	font-weight:400000px;
+}
